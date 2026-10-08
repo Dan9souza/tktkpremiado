@@ -1,0 +1,43 @@
+{
+    "source": "https://diasevent.netlify.app/pagamento",
+    "rippedAt": "2026-10-08T03:51:10+00:00",
+    "files": [
+        "index.html",
+        "assets/index-ChnVPbLi.js",
+        "_external/checkout-buddy-80.lovable.app/__l5e/assets-v1/355fa99e-907d-4119-9010-111688f6a20e/banner.gif",
+        "assets/tiktok-logo-cQSqG6D1.webp",
+        "assets/pix-symbol-CuqpJ0me.png",
+        "_external/checkout-buddy-80.lovable.app/__l5e/assets-v1/3498fb64-c570-4df3-9937-0d8f950cfd18/review-1.jpg",
+        "_external/checkout-buddy-80.lovable.app/__l5e/assets-v1/12abe2be-374c-4a5b-98ce-06c92eb04c2d/review-2.webp",
+        "_external/checkout-buddy-80.lovable.app/__l5e/assets-v1/eeb364e1-0b34-4a7b-8fb2-6d958d01ec00/review-3.webp",
+        "_external/checkout-buddy-80.lovable.app/__l5e/assets-v1/3aac4d35-70ea-4325-83f4-3a226ea5e2fe/review-4.webp",
+        "assets/styles-CiZJCBkU.css",
+        "_external/fonts.googleapis.com/css2-q-a306b3bf89",
+        "assets/pagamento-bHJ05nQy.js",
+        "assets/checkout-config-CIqXsawh.js",
+        "assets/CheckoutPage-B56wtstW.js",
+        "_external/pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/lovp_02q6kbwzh68enaqqhscsfkj610/f05ac44266bbe1b9d0d27b89fa35824c_1791431164032.png",
+        "assets/routes-bHJ05nQy.js",
+        "assets/button-BQ7W--tn.js",
+        "assets/auth-C06Uj4Tq.js",
+        "assets/label-DWK7ZY8V.js",
+        "assets/oferta-final-CEqd807t.js",
+        "assets/painel-3dOjNZSR.js",
+        "assets/up1.pagamento-rvI2X-kw.js",
+        "assets/up2.pagamento-C-Jf8J8s.js",
+        "assets/up3.pagamento-DZjWrLEz.js",
+        "assets/up4.pagamento-qUXU3AUG.js",
+        "assets/up5.pagamento-C98msNUY.js",
+        "assets/route-D1VqULDB.js",
+        "_external/fonts.gstatic.com/s/instrumentsans/v4/pxiTypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr0She1YmV.woff2",
+        "_external/fonts.gstatic.com/s/instrumentsans/v4/pxiTypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr0SZe1Q.woff2"
+    ],
+    "errors": [
+        "https://diasevent.netlify.app/favicon.png: HTTP 404",
+        "https://diasevent.netlify.app/__l5e/assets-v1/3498fb64-c570-4df3-9937-0d8f950cfd18/review-1.jpg: HTTP 404",
+        "https://diasevent.netlify.app/__l5e/assets-v1/12abe2be-374c-4a5b-98ce-06c92eb04c2d/review-2.webp: HTTP 404",
+        "https://diasevent.netlify.app/__l5e/assets-v1/eeb364e1-0b34-4a7b-8fb2-6d958d01ec00/review-3.webp: HTTP 404",
+        "https://diasevent.netlify.app/__l5e/assets-v1/3aac4d35-70ea-4325-83f4-3a226ea5e2fe/review-4.webp: HTTP 404",
+        "https://diasevent.netlify.app/__l5e/assets-v1/355fa99e-907d-4119-9010-111688f6a20e/banner.gif: HTTP 404"
+    ]
+}

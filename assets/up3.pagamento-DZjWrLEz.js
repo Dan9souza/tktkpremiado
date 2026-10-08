@@ -1,0 +1,1 @@
+import{o as e}from"./checkout-config-CIqXsawh.js";import{O as t}from"./index-ChnVPbLi.js";import{t as n}from"./CheckoutPage-B56wtstW.js";var r=t(),i=()=>(0,r.jsx)(n,{config:e});export{i as component};
